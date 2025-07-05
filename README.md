@@ -49,7 +49,7 @@ _Open a new terminal:_
 ```bash
 cd frontend
 npm install
-npm start
+npm start ```
 
 Frontend runs on http://localhost:3000
 
