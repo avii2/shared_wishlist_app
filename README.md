@@ -34,3 +34,41 @@ A collaborative product wishlist web app where multiple users can create, manage
 ```bash
 git clone <your_repo_url>
 cd shared-wishlist-app
+
+## 2. Install and Run Backend
+
+```bash
+cd backend
+npm install
+node server.js
+
+## 3. Install and Run Frontend
+
+_Open a new terminal:_
+
+```bash
+cd frontend
+npm install
+npm start
+
+Frontend runs on http://localhost:3000
+
+
+## 📸 Screenshots
+
+**Login/Signup Page**
+
+![Login/Signup](./screenshots/login-signup.png)
+
+**Wishlist Dashboard**
+
+![Wishlist Dashboard](./screenshots/wishlist-dashboard.png)
+
+**Wishlist Detail Page**
+
+![Wishlist Detail](./screenshots/wishlist-detail.png)
+
+
+##👤 Author
+Anil kumar
+anilkumarbarupal.01@gmail.com
